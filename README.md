@@ -1,0 +1,2 @@
+Fabrica_Hilos_Java es un pequeño ejercicio de hilos en el que dos hilos (productor y recolector) tendrán que fabricar y recoger botellas. El objeto compartido CintaMontaje solo acepta 5 botellas, por lo que cuando el array cinta llegue a 5 el productor tendra que esperar (wait) hasta que el recolector haya recogido alguna. 
+Este ejercicio es una pequeña prueba que he realizado para la practica de monitores.
